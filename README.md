@@ -13,6 +13,7 @@ In backend folder:
   npm install -g nodemon --> install node globally
   nodemon server.js --> runs application; reruns at detection of change
   npm install dotenv --> creates .env for env vars
+  npm install mongoose --> Object Data Modeling (ODM) Library; uses methods to read & write database docs & declare models & schemas
 
 Postman download: https://www.postman.com/downloads/
 
@@ -22,3 +23,7 @@ POST   /workouts     --> Creates new workout doc
 GET    /workouts/:id --> Gets single workout doc
 DELETE /workouts/:id --> Deletes single workout
 PATCH  /workouts/:id --> Updates single workout
+
+Mongo DB Atlas
+- Service that creates a database online and have it fully configured and hosted for the developer
+- https://www.mongodb.com/atlas/database
