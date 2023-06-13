@@ -15,3 +15,10 @@ In backend folder:
   npm install dotenv --> creates .env for env vars
 
 Postman download: https://www.postman.com/downloads/
+
+API Endpoints:
+GET    /workouts     --> Gets all workout docs
+POST   /workouts     --> Creates new workout doc
+GET    /workouts/:id --> Gets single workout doc
+DELETE /workouts/:id --> Deletes single workout
+PATCH  /workouts/:id --> Updates single workout
