@@ -16,9 +16,9 @@ In backend folder:
 - npm install mongoose --> Object Data Modeling (ODM) Library; uses methods to read & write database docs & declare models & schemas
 
 Front end:
-  npx create-react-app frontend
-  npm install react-router-dom
-  npm start --> opens app in default browser: port 3000
+- npx create-react-app frontend
+- npm install react-router-dom
+- npm start --> opens app in default browser: port 3000
 
 
 Postman download: https://www.postman.com/downloads/
