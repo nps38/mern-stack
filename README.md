@@ -16,19 +16,19 @@ In backend folder:
 - npm install mongoose --> Object Data Modeling (ODM) Library; uses methods to read & write database docs & declare models & schemas
 
 Front end:
-  npx create-react-app frontend
-  npm install react-router-dom
-  npm start --> opens app in default browser: port 3000
+- npx create-react-app frontend
+- npm install react-router-dom
+- npm start --> opens app in default browser: port 3000
 
 
 Postman download: https://www.postman.com/downloads/
 
 API Endpoints:
-GET    /workouts     --> Gets all workout docs
-POST   /workouts     --> Creates new workout doc
-GET    /workouts/:id --> Gets single workout doc
-DELETE /workouts/:id --> Deletes single workout
-PATCH  /workouts/:id --> Updates single workout
+- GET    /workouts     --> Gets all workout docs
+- POST   /workouts     --> Creates new workout doc
+- GET    /workouts/:id --> Gets single workout doc
+- DELETE /workouts/:id --> Deletes single workout
+- PATCH  /workouts/:id --> Updates single workout
 
 Mongo DB Atlas
 - Service that creates a database online and have it fully configured and hosted for the developer
