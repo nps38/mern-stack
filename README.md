@@ -8,12 +8,12 @@ Consists of:
   4. Mongodb - nosql database used to store application data
 
 In backend folder:
-  npm init -y --> creates package.json
-  npm install express
-  npm install -g nodemon --> install node globally
-  nodemon server.js --> runs application; reruns at detection of change
-  npm install dotenv --> creates .env for env vars
-  npm install mongoose --> Object Data Modeling (ODM) Library; uses methods to read & write database docs & declare models & schemas
+- npm init -y --> creates package.json
+- npm install express
+- npm install -g nodemon --> install node globally
+- nodemon server.js --> runs application; reruns at detection of change
+- npm install dotenv --> creates .env for env vars
+- npm install mongoose --> Object Data Modeling (ODM) Library; uses methods to read & write database docs & declare models & schemas
 
 Front end:
   npx create-react-app frontend
