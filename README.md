@@ -24,11 +24,11 @@ Front end:
 Postman download: https://www.postman.com/downloads/
 
 API Endpoints:
-GET    /workouts     --> Gets all workout docs
-POST   /workouts     --> Creates new workout doc
-GET    /workouts/:id --> Gets single workout doc
-DELETE /workouts/:id --> Deletes single workout
-PATCH  /workouts/:id --> Updates single workout
+- GET    /workouts     --> Gets all workout docs
+- POST   /workouts     --> Creates new workout doc
+- GET    /workouts/:id --> Gets single workout doc
+- DELETE /workouts/:id --> Deletes single workout
+- PATCH  /workouts/:id --> Updates single workout
 
 Mongo DB Atlas
 - Service that creates a database online and have it fully configured and hosted for the developer
